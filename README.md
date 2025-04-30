@@ -6,11 +6,11 @@ This repository provides a comprehensive overview of **all types of operators in
 
 ## 📌 Table of Contents
 
-- [1. Arithmetic Operators](#1-arithmetic-operators)
-- [2. Assignment Operators](#2-assignment-operators)
-- [3. Comparison Operators](#3-comparison-operators)
-- [4. Logical Operators](#4-logical-operators)
-- [5. Bitwise Operators](#5-bitwise-operators)
+- [1. Arithmetic Operators]
+- [2. Assignment Operators]
+- [3. Comparison Operators]
+- [4. Logical Operators]
+- [5. Bitwise Operators]
 
 ---
 
