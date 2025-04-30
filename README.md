@@ -76,7 +76,7 @@ This repository provides a comprehensive overview of **all types of operators in
 | `~`      | NOT                   | `~5`        | `-6`   |
 | `<<`     | Left Shift            | `5 << 1`    | `10`   |
 | `>>`     | Signed Right Shift    | `-8 >> 2`   | `-2`   |
-| `>>>`    | Unsigned Right Shift  | `-8 >>> 2`  | `1073741822` |
+
 
 ---
 
